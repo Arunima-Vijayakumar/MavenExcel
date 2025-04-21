@@ -20,7 +20,7 @@
 <configuration>
 <archive>
 <manifest>
-<mainClass>samplejenkins.PrintMessage</mainClass>
+<mainClass>jenkins.Jenkins</mainClass>
 </manifest>
 </archive>
 </configuration>
